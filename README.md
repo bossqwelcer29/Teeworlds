@@ -211,3 +211,6 @@ Teeworlds is available as a full free version, meaning all features are unlocked
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Ready to dive into the colorful chaos of Teeworlds? Download your **Teeworlds free** version today and join the action!
+
+---
+**Last updated:** 2026-09-14 10:30:11 UTC
