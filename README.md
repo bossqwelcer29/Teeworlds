@@ -213,4 +213,4 @@ Teeworlds is available as a full free version, meaning all features are unlocked
 Ready to dive into the colorful chaos of Teeworlds? Download your **Teeworlds free** version today and join the action!
 
 ---
-**Last updated:** 2026-10-20 05:49:43 UTC
+**Last updated:** 2026-10-20 11:18:54 UTC
